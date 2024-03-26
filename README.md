@@ -12,3 +12,4 @@ To run the code:
 - Use npm install after copying the code into your text editor
 - Use npm start or visit http://localhost:3000/ to see the timer
 - You can edit the code for your special needs and add other features
+![Screenshot (70)](https://github.com/prateek1596/Pomodoro-Timer/assets/146472683/c8fd9b8a-2281-4ba7-9f48-53566096cdc5)
